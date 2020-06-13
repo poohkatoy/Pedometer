@@ -21,4 +21,6 @@
         - Passive buzzer บนบอร์ด
         - 2.4” TFT Resistive Touch HMI Screen
 ### โครงสร้างพื้นฐาน
+[flowchart]: https://github.com/poohkatoy/Pedometer/blob/master/image/Flowchart.svg
+ "Flowchart"
 ### ระบบการทำงาน
