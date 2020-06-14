@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\test",
+    "\\test\\unit",
+    "\\test\\unit\\7-segment"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\test\\unit\\7-segment\\TM1637.cpp",
   "PreviewInSolutionExplorer": false
 }
