@@ -26,10 +26,10 @@
 
 ![alt text For Logo 1][flowchart]
 
-[flowchart]: https://github.com/poohkatoy/Pedometer/blob/master/Flowchart.svg "Flowchart"
+[flowchart]: https://github.com/poohkatoy/Pedometer/blob/master/image/Flowchart.svg "Flowchart"
 
 ### ระบบการทำงาน
 
 ![alt text For Logo 2][diagram]
 
-[diagram]: https://github.com/poohkatoy/Pedometer/blob/master/Diagram.jpg "Diagram"
+[diagram]: https://github.com/poohkatoy/Pedometer/blob/master/image/Diagram.jpg "Diagram"
