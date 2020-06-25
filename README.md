@@ -34,4 +34,4 @@
 
 ![alt text For Logo 2][diagram]
 
-[diagram]: https://github.com/poohkatoy/Pedometer/blob/master/image/diagram.jpg "Diagram"
+[diagram]: https://github.com/poohkatoy/Pedometer/blob/master/PedometerDiagram.jpg "Diagram"
