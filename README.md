@@ -28,7 +28,7 @@
 
 ![alt text For Logo 1][flowchart]
 
-[flowchart]: https://github.com/poohkatoy/Pedometer/blob/master/image/flowchart.svg "Flowchart"
+[flowchart]: https://github.com/poohkatoy/Pedometer/blob/master/PedometerFlowchart.svg "Flowchart"
 
 ### ระบบการทำงาน
 
